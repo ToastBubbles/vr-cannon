@@ -1,0 +1,232 @@
+fileFormatVersion: 2
+guid: 0fc44e81bd8f19c4b8e70138b54f2ecc
+timeCreated: 1556970970
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Chassis
+    100002: Cube
+    100004: Cylinder
+    100006: Cylinder.001
+    100008: LB1
+    100010: LB1_end
+    100012: LB2
+    100014: LB2_end
+    100016: LB3
+    100018: LB3_end
+    100020: LB4
+    100022: LB4_end
+    100024: LB5
+    100026: LB5_end
+    100028: LLight
+    100030: LLightHsng
+    100032: LTreadSmart
+    100034: LW1
+    100036: LW2
+    100038: LW3
+    100040: LW4
+    100042: LW5
+    100044: //RootNode
+    100046: RB1
+    100048: RB1_end
+    100050: RB2
+    100052: RB2_end
+    100054: RB3
+    100056: RB3_end
+    100058: RB4
+    100060: RB4_end
+    100062: RB5
+    100064: RB5_end
+    100066: RLight
+    100068: RLightHsng
+    100070: Root
+    100072: Root 1
+    100074: RTreadSmart
+    100076: RW1
+    100078: RW2
+    100080: RW3
+    100082: RW4
+    100084: RW5
+    100086: TurretRotator
+    100088: Vent
+    400000: Chassis
+    400002: Cube
+    400004: Cylinder
+    400006: Cylinder.001
+    400008: LB1
+    400010: LB1_end
+    400012: LB2
+    400014: LB2_end
+    400016: LB3
+    400018: LB3_end
+    400020: LB4
+    400022: LB4_end
+    400024: LB5
+    400026: LB5_end
+    400028: LLight
+    400030: LLightHsng
+    400032: LTreadSmart
+    400034: LW1
+    400036: LW2
+    400038: LW3
+    400040: LW4
+    400042: LW5
+    400044: //RootNode
+    400046: RB1
+    400048: RB1_end
+    400050: RB2
+    400052: RB2_end
+    400054: RB3
+    400056: RB3_end
+    400058: RB4
+    400060: RB4_end
+    400062: RB5
+    400064: RB5_end
+    400066: RLight
+    400068: RLightHsng
+    400070: Root
+    400072: Root 1
+    400074: RTreadSmart
+    400076: RW1
+    400078: RW2
+    400080: RW3
+    400082: RW4
+    400084: RW5
+    400086: TurretRotator
+    400088: Vent
+    2300000: Chassis
+    2300002: Cube
+    2300004: Cylinder
+    2300006: Cylinder.001
+    2300008: LLight
+    2300010: LLightHsng
+    2300012: LW1
+    2300014: LW2
+    2300016: LW3
+    2300018: LW4
+    2300020: LW5
+    2300022: RLight
+    2300024: RLightHsng
+    2300026: RW1
+    2300028: RW2
+    2300030: RW3
+    2300032: RW4
+    2300034: RW5
+    2300036: TurretRotator
+    2300038: Vent
+    3300000: Chassis
+    3300002: Cube
+    3300004: Cylinder
+    3300006: Cylinder.001
+    3300008: LLight
+    3300010: LLightHsng
+    3300012: LW1
+    3300014: LW2
+    3300016: LW3
+    3300018: LW4
+    3300020: LW5
+    3300022: RLight
+    3300024: RLightHsng
+    3300026: RW1
+    3300028: RW2
+    3300030: RW3
+    3300032: RW4
+    3300034: RW5
+    3300036: TurretRotator
+    3300038: Vent
+    4300000: Cylinder.001
+    4300002: Cylinder
+    4300004: Cube
+    4300006: RW2
+    4300008: RW3
+    4300010: RW4
+    4300012: LTreadSmart
+    4300014: RTreadSmart
+    4300016: LW4
+    4300018: LW3
+    4300020: LW2
+    4300022: Vent
+    4300024: TurretRotator
+    4300026: LW5
+    4300028: LW1
+    4300030: RW5
+    4300032: RW1
+    4300034: LLightHsng
+    4300036: LLight
+    4300038: RLight
+    4300040: RLightHsng
+    4300042: Chassis
+    9500000: //RootNode
+    13700000: LTreadSmart
+    13700002: RTreadSmart
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

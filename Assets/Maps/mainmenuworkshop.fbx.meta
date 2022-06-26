@@ -1,0 +1,249 @@
+fileFormatVersion: 2
+guid: 6c272af52b6605d488587ade0e492f83
+timeCreated: 1560741049
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: base
+    100002: BezierCircle
+    100004: BezierCurve
+    100006: BezierCurve.001
+    100008: BezierCurve.002
+    100010: BezierCurve.003
+    100012: BezierCurve.004
+    100014: BezierCurve.005
+    100016: BezierCurve.006
+    100018: BezierCurve.007
+    100020: BezierCurve.008
+    100022: BezierCurve.009
+    100024: BezierCurve.010
+    100026: BezierCurve.011
+    100028: BezierCurve.012
+    100030: BezierCurve.013
+    100032: BezierCurve.014
+    100034: bigger
+    100036: Collider
+    100038: Cube
+    100040: Cube.001
+    100042: Cube.002
+    100044: Cube.003
+    100046: Cube.004
+    100048: Cube.005
+    100050: Cube.006
+    100052: Cube.007
+    100054: floor
+    100056: glowy bit
+    100058: Innerouter
+    100060: legs
+    100062: //RootNode
+    100064: Plane
+    100066: smaller
+    100068: table
+    400000: base
+    400002: BezierCircle
+    400004: BezierCurve
+    400006: BezierCurve.001
+    400008: BezierCurve.002
+    400010: BezierCurve.003
+    400012: BezierCurve.004
+    400014: BezierCurve.005
+    400016: BezierCurve.006
+    400018: BezierCurve.007
+    400020: BezierCurve.008
+    400022: BezierCurve.009
+    400024: BezierCurve.010
+    400026: BezierCurve.011
+    400028: BezierCurve.012
+    400030: BezierCurve.013
+    400032: BezierCurve.014
+    400034: bigger
+    400036: Collider
+    400038: Cube
+    400040: Cube.001
+    400042: Cube.002
+    400044: Cube.003
+    400046: Cube.004
+    400048: Cube.005
+    400050: Cube.006
+    400052: Cube.007
+    400054: floor
+    400056: glowy bit
+    400058: Innerouter
+    400060: legs
+    400062: //RootNode
+    400064: Plane
+    400066: smaller
+    400068: table
+    2300000: base
+    2300002: BezierCircle
+    2300004: BezierCurve
+    2300006: BezierCurve.001
+    2300008: BezierCurve.002
+    2300010: BezierCurve.003
+    2300012: BezierCurve.004
+    2300014: BezierCurve.005
+    2300016: BezierCurve.006
+    2300018: BezierCurve.007
+    2300020: BezierCurve.008
+    2300022: BezierCurve.009
+    2300024: BezierCurve.010
+    2300026: BezierCurve.011
+    2300028: BezierCurve.012
+    2300030: BezierCurve.013
+    2300032: BezierCurve.014
+    2300034: bigger
+    2300036: Collider
+    2300038: Cube
+    2300040: Cube.001
+    2300042: Cube.002
+    2300044: Cube.003
+    2300046: Cube.004
+    2300048: Cube.005
+    2300050: Cube.006
+    2300052: Cube.007
+    2300054: floor
+    2300056: glowy bit
+    2300058: Innerouter
+    2300060: legs
+    2300062: Plane
+    2300064: smaller
+    2300066: table
+    3300000: base
+    3300002: BezierCircle
+    3300004: BezierCurve
+    3300006: BezierCurve.001
+    3300008: BezierCurve.002
+    3300010: BezierCurve.003
+    3300012: BezierCurve.004
+    3300014: BezierCurve.005
+    3300016: BezierCurve.006
+    3300018: BezierCurve.007
+    3300020: BezierCurve.008
+    3300022: BezierCurve.009
+    3300024: BezierCurve.010
+    3300026: BezierCurve.011
+    3300028: BezierCurve.012
+    3300030: BezierCurve.013
+    3300032: BezierCurve.014
+    3300034: bigger
+    3300036: Collider
+    3300038: Cube
+    3300040: Cube.001
+    3300042: Cube.002
+    3300044: Cube.003
+    3300046: Cube.004
+    3300048: Cube.005
+    3300050: Cube.006
+    3300052: Cube.007
+    3300054: floor
+    3300056: glowy bit
+    3300058: Innerouter
+    3300060: legs
+    3300062: Plane
+    3300064: smaller
+    3300066: table
+    4300000: floor
+    4300002: table
+    4300004: legs
+    4300006: Cube
+    4300008: Cube.001
+    4300010: Cube.002
+    4300012: Cube.003
+    4300014: bigger
+    4300016: smaller
+    4300018: Innerouter
+    4300020: base
+    4300022: glowy bit
+    4300024: Collider
+    4300026: Cube.004
+    4300028: BezierCurve
+    4300030: BezierCircle
+    4300032: Cube.005
+    4300034: BezierCurve.001
+    4300036: BezierCurve.002
+    4300038: BezierCurve.003
+    4300040: BezierCurve.004
+    4300042: BezierCurve.005
+    4300044: BezierCurve.006
+    4300046: BezierCurve.007
+    4300048: BezierCurve.008
+    4300050: BezierCurve.009
+    4300052: BezierCurve.010
+    4300054: BezierCurve.011
+    4300056: BezierCurve.012
+    4300058: BezierCurve.013
+    4300060: BezierCurve.014
+    4300062: Plane
+    4300064: Cube.006
+    4300066: Cube.007
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

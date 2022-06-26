@@ -1,0 +1,139 @@
+fileFormatVersion: 2
+guid: 2b66c01bf54a7104cb9deae8e6fdcc77
+timeCreated: 1558262225
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: ChasBot
+    100002: ChasLW
+    100004: Chassis
+    100006: CHBW
+    100008: CHFRONT
+    100010: CHRW
+    100012: CHTOP
+    100014: TruL
+    100016: TurLid
+    100018: TurR
+    100020: Turret
+    100022: Turretbottom
+    100024: //RootNode
+    400000: ChasBot
+    400002: ChasLW
+    400004: Chassis
+    400006: CHBW
+    400008: CHFRONT
+    400010: CHRW
+    400012: CHTOP
+    400014: TruL
+    400016: TurLid
+    400018: TurR
+    400020: Turret
+    400022: Turretbottom
+    400024: //RootNode
+    2300000: ChasBot
+    2300002: ChasLW
+    2300004: Chassis
+    2300006: CHBW
+    2300008: CHFRONT
+    2300010: CHRW
+    2300012: CHTOP
+    2300014: TruL
+    2300016: TurLid
+    2300018: TurR
+    2300020: Turret
+    2300022: Turretbottom
+    3300000: ChasBot
+    3300002: ChasLW
+    3300004: Chassis
+    3300006: CHBW
+    3300008: CHFRONT
+    3300010: CHRW
+    3300012: CHTOP
+    3300014: TruL
+    3300016: TurLid
+    3300018: TurR
+    3300020: Turret
+    3300022: Turretbottom
+    4300000: CHTOP
+    4300002: CHBW
+    4300004: CHFRONT
+    4300006: CHRW
+    4300008: ChasLW
+    4300010: ChasBot
+    4300012: TurLid
+    4300014: TruL
+    4300016: TurR
+    4300018: Turretbottom
+    4300020: Turret
+    4300022: Chassis
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
